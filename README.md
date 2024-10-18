@@ -1,2 +1,2 @@
-# Dota2REWORK_by_MVP_lCE
+# Dota2REWORK_ALLPICK
 Rework All Pick Mode

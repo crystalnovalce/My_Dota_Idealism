@@ -1,2 +1,2 @@
-# Dota2REWORK_ALLPICK
-Rework All Pick Mode
+# Dota 2 - Repositories for Steam
+Recordings for Steam works
